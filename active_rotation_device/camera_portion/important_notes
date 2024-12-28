@@ -1,1 +1,1 @@
-It is important to recognize that the file "ServoImuTiltComp" present here is the basis for the IMU & Photoresistor compensation code in the "solar coronagraph" projects.
+It is important to recognize that the file "ServoImuComp" present here is the basis for the IMU & Photoresistor compensation code in the "solar coronagraph" projects.
